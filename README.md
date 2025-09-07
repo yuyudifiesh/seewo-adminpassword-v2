@@ -1,5 +1,5 @@
 # 希沃管家 V2 密码解码工具
-工具在本地运行，不获取您的隐私数据。[下载工具](https://yuyudifiesh.github.io/seewo-adminpassword-v2/SeewoPassv2.zip)
+工具在本地运行，不获取您的隐私数据。[下载工具](https://yuyudifiesh.github.io/seewo-adminpassword-v2/SeewoPassv2_GUI_clean.exe)
 
 >  **工具仅可用于希沃管家 `1.4.6.3588` 及以下版本，运行脚本前请您先安装并配置 Python 环境。**
 >
